@@ -78,6 +78,6 @@ After completing the notebook, you should be able to:
 
 ## Optional Improvement Tasks
 
-- add markdown headings to divide notebook sections by chart type
-- add interpretation below each plot (1 to 2 lines)
-- compare at least two plot types for the same variables and explain which one is more informative
+- add markdown headings to divide notebook sections by chart type.
+- add interpretation below each plot (1 to 2 lines).
+- compare at least two plot types for the same variables and explain which one is more informative.
