@@ -81,3 +81,7 @@ After completing the notebook, you should be able to:
 - add markdown headings to divide notebook sections by chart type.
 - add interpretation below each plot (1 to 2 lines).
 - compare at least two plot types for the same variables and explain which one is more informative.
+
+### About CSV File
+- This file contains some basic data on people that they are smoker or not.
+- And also conatins the total_bill tips etc
